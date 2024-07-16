@@ -18,14 +18,27 @@
   </div>
 </div>
 
-> **Temporary unusable:** needs `@maizzle/framework@next` which has not been published yet.
-
 ## Getting Started
 
-Run this command and follow the prompts:
+Run this command to initialize a new Maizzle project:
 
 ```bash
 npx create-maizzle
+```
+
+Select the **5.0.0-beta** Starter when prompted:
+
+```bash
+┌   create-maizzle
+│
+◇  Where should we create your project?
+│  ./maizzle-5
+│
+◆  Select a Starter
+│  ● 5.0.0-beta
+│  ○ Default
+│  ○ Custom
+└
 ```
 
 ## Documentation
