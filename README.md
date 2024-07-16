@@ -41,6 +41,10 @@ Select the **5.0.0-beta** Starter when prompted:
 └
 ```
 
+## Feedback
+
+We would greatly appreciate it if you could test it out and provide feedback through [GitHub Discussions](https://github.com/orgs/maizzle/discussions) or by [opening an issue](https://github.com/maizzle/framework/issues/new). Thanks!
+
 ## Documentation
 
 Maizzle documentation is available at https://maizzle.com
